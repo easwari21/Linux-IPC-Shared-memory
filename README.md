@@ -1,5 +1,6 @@
 # Linux-IPC-Shared-memory
 
+
 **Ex06-Linux IPC-Shared-memory**
 
 
@@ -133,7 +134,6 @@ fprintf(stderr, "shmdt failed\n"); exit(EXIT_FAILURE);
 }
 
 ```
-
 
 
 ## OUTPUT
